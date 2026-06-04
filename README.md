@@ -13,6 +13,7 @@ The final model is deployed as a live web app using **Streamlit**.
 ## 🌐 Live Demo
 
 🔗 Streamlit App: https://hala-awad-bfcz3jhwvppqpqurd8yc4z.streamlit.app/#stroke-risk-prediction-app 
+ipnyb file from Google colab: https://github.com/halamr2004-byte/Stroke-Prediction-App-ML-project/blob/main/Stroke_Prediction.ipynb 
 
 ---
 
